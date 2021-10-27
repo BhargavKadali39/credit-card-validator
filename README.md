@@ -56,7 +56,7 @@ Sample Output:
 
 4123456789123456 : Valid
 5123-4567-8912-3456 : Valid
-61234--8912-3456 : Invalid, because the card number is not divided into equal groups of .
+61234-567-8912-3456 : Invalid, because the card number is not divided into equal groups of .
 4123356789123456 : Valid
-51-67-8912-3456 : Invalid, consecutive digits  is repeating  times.
-5123456789123456 : Invalid, because space '  ' and - are used as separators.
+5133-6733-8912-3456 : Invalid, consecutive digits 3333 is repeating 4 times.
+5123 - 4567 - 8912 - 3456 : Invalid, because space '  ' and - are used as separators.
