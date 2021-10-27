@@ -25,3 +25,7 @@ InValid Examples:
         5122-2368-7954 - 3214   #Separators other than '-' are used → Invalid
         44244x4424442444        #Contains non digit characters → Invalid
         0525362587961578        #Doesn't start with 4, 5 or 6 → Invalid
+
+**Input format**:
+The first line of input contains an integer N.
+The next N lines contain credit card numbers.
