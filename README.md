@@ -29,3 +29,6 @@ InValid Examples:
 **Input format**:
 The first line of input contains an integer N.
 The next N lines contain credit card numbers.
+
+**Output Format**
+>Print 'Valid' if the credit card number is valid. Otherwise, print 'Invalid'. Do not print the quotes.
