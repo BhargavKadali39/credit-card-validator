@@ -12,3 +12,8 @@ A valid credit card from ABCD Bank has the following characteristics:
 * It may have digits in groups of 4, separated by one hyphen "-".
 * It must **NOT** use any other separator like ' ' , '_', etc.
 * It must **NOT** have  or more consecutive repeated digits.
+EX:
+
+    4253625879615786
+    4424424424442444
+    5122-2368-7954-3214
