@@ -32,3 +32,22 @@ The next N lines contain credit card numbers.
 
 **Output Format**
 >Print 'Valid' if the credit card number is valid. Otherwise, print 'Invalid'. Do not print the quotes.
+
+Sample input:
+
+        6
+        4123456789123456
+        5123-4567-8912-3456
+        61234-567-8912-3456
+        4123356789123456
+        5133-3367-8912-3456
+        5123 - 3567 - 8912 - 3456
+
+Sample Output:
+
+        Valid
+        Valid
+        Invalid
+        Valid
+        Invalid
+        Invalid
